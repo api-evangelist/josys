@@ -38,6 +38,16 @@ common:
     url: https://developer.josys.com/
   - type: StatusPage
     url: https://status.josys.com/
+  - type: Integrations
+    url: https://www.josys.com/integrations
+integrations:
+  - name: josys
+  - name: josys logomark
+  - name: aws
+  - name: google
+  - name: metamask
+  - name: slack
+  - name: Logo
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
