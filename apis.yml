@@ -32,6 +32,10 @@ apis:
       - type: StatusPage
         url: https://status.josys.com/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/JoSys
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/josys-inc
   - type: Website
     url: https://www.josys.com
   - type: Developer
