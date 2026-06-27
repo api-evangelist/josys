@@ -44,7 +44,7 @@ common:
     url: https://status.josys.com/
   - type: Integrations
     url: https://www.josys.com/integrations
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://josys.com/llms.txt
 integrations:
   - name: josys
