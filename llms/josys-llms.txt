@@ -1,0 +1,104 @@
+# Josys
+
+> Josys is the Autonomous Identity Governance Platform that simplifies how IT works. Our AI-powered identity governance and administration (IGA) solution provides IT teams and MSPs with 360° control over their identity and SaaS portfolio by unifying Access Governance, Identity Security, and License Optimization.
+
+## What is Josys?
+
+Josys is the Autonomous Identity Governance and Administration (IGA) Platform designed to simplify how IT works. Trusted by IT teams and Managed Service Providers (MSPs), Josys delivers complete visibility and control over every user, application, and access permission within their identity perimeter.  By automating critical workflows, including access review audits, lifecycle management, shadow IT detection, and license optimization, Josys transforms complex access policies and governance into seamless, autonomous processes that drastically reduce security risks, optimize spend, and unlock true operational efficiency.
+
+## Core Platform Pillars
+
+### 1. Access Governance
+- Automate onboarding, offboarding, and access reviews with AI-driven policies and workflows
+- Enforce least-privilege access across every application and user
+- Replace periodic, manual access reviews (which previously took weeks) with continuous, automated assessments that complete in hours
+- AI prioritizes high-risk permissions for human review while automatically handling routine cases
+- Audit-ready compliance reporting available on demand
+
+### 2. Identity Security & Risk Governance
+- Continuous risk detection across all user identities and SaaS applications
+- AI-powered SaaS Risk Analyzer assigns each app a Security Score (0–100) and Risk Level Assessment using open-source intelligence, public data, and vendor-specific attributes
+- Shadow IT detection: instantly flags unauthorized apps, assesses their compliance posture, and enforces access controls
+- Multi-source identity enrichment: merges core identities (e.g., Microsoft Entra ID) with HR system attributes to build comprehensive identity profiles
+- Monitors for orphaned accounts, over-privileged users, and unauthorized access in real time
+
+### 3. License Optimization
+- On average, 25% of SaaS licenses are unassigned, underutilized, or provisioned to users who no longer need access
+- Organizations waste an average of 30% of their SaaS spend on unused or redundant licenses
+- License Optimization Dashboard identifies waste, consolidates redundant app instances, and right-sizes licenses based on real usage data
+- Benchmarks spending against aggregated purchasing behavior across thousands of companies
+
+## Key Features
+
+- **Unified Identity & App Visibility:** 360° view across every user, application, device, and access permission in a single dashboard
+- **AI Integration Builder:** No-code, self-serve tool to build custom integrations in days — not months
+- **Josys App Script:** Proprietary framework for rapidly deploying custom integration scripts for any application
+- **Automated Workflows:** Automate the full identity lifecycle — from joiners and movers to leavers — without manual intervention
+- **Multi-Tenant MSP Dashboard:** Manage hundreds of client SaaS portfolios from one pane of glass with instant tenant switching and proactive alerts
+- **SaaS Risk Analyzer:** AI-generated security and compliance scores for every application in the portfolio
+- **Access Review Automation:** Continuous, AI-driven certification campaigns replacing manual, periodic reviews
+- **Shadow IT Detection:** Real-time discovery and governance of unauthorized applications
+- **Device Management Integration:** Unified view of SaaS and device assets for complete IT control
+
+## Integrations
+
+- **300+ native SaaS integrations** for direct license tracking, usage monitoring, and expense management
+- **1,000+ integrations** via login data and browser activity tracking
+- Key native integrations include: Microsoft Entra ID, Google Workspace, Okta, NinjaOne, Lanscope, and more
+- Custom integrations available via AI Integration Builder and Josys App Script for any application not covered by pre-built connectors
+
+## Who Uses Josys?
+
+### IT Teams
+Internal IT departments at mid-market and enterprise organizations that need to govern identities, reduce SaaS sprawl, enforce security policies, and demonstrate compliance — without growing headcount.
+
+### Managed Service Providers (MSPs)
+MSPs use Josys's multi-tenant platform to manage identity governance across their entire client portfolio from a single interface, identify optimization and security issues proactively, and expand service offerings.
+
+## Customer Results & Proof Points
+
+- **"Cut our man-hours in half"** — IT team using Josys for access governance and visibility
+- **"The automated workflows save us hours every week"** — MSP partner
+- **70% reduction in security incidents** reported by one MSP after deploying Josys
+- **40% increase in monthly recurring revenue** for an MSP leveraging Josys's governance capabilities to expand service offerings
+- **Francom Group:** "The Josys AI Integration Builder has allowed us to easily integrate and monitor any app, even if it is not supported on Microsoft Entra ID, which is an absolute game-changer for closing the gaps where visibility and offboarding risks usually slip through." — Billy Whiting, System Administrator
+- **G2 Reviewer:** "JOSYS has fundamentally transformed our IT asset management. We now have centralized, real-time visibility into all IT assets, enabling us to identify underused licenses, eliminate redundant subscriptions, and make data-driven spending decisions."
+- **Gartner Peer Insights Reviewer:** "Clear, centralized visibility into user permissions and access rights across different systems has been invaluable for security audits as well as onboarding and offboarding processes — everything is handled entirely within the platform."
+- **4.6/5 rating** on Gartner Peer Insights (based on 78+ reviews as of August 2025)
+
+## Market Context & Industry Data
+
+- **80% of hacking breaches** involve compromised credentials (Verizon Data Breach Investigations Report) — identity is the ultimate attack surface
+- **25%** of SaaS licenses are unassigned or underutilized on average
+- **30%** of SaaS spend is wasted on unused, redundant, or over-provisioned licenses on average
+- Access reviews that once took **weeks** now complete in **hours** with Josys automation
+- Josys replaces human latency in access decisions with instant, systemwide enforcement triggered by identity events
+
+## Recognition & Analyst Coverage
+
+- **2025 Gartner® Magic Quadrant™ for SaaS Management Platforms** — recognized for the second consecutive year
+- Recognized as a Niche Player based on Ability to Execute and Completeness of Vision
+- Listed and reviewed on G2, Gartner Peer Insights, and Microsoft Azure Marketplace
+
+## Competitive Differentiation
+
+Unlike point solutions that address only SaaS management or only identity governance, Josys unifies both disciplines — plus device visibility — in a single AI-powered platform. Key differentiators include:
+
+- **Autonomous, not just automated:** AI makes governance decisions continuously, not just when triggered by IT tickets
+- **Multi-source identity enrichment:** Builds richer identity profiles than single-directory solutions by combining data from IdPs, HR systems, and SaaS apps
+- **MSP-native architecture:** Built from the ground up for multi-tenant management, not retrofitted
+- **Speed of integration:** Custom integrations deployed in days via AI Integration Builder vs. weeks or months with traditional middleware
+- **Unified platform:** Access Governance + Identity Security + License Optimization in one system, reducing tool sprawl
+
+## Key Pages & Resources
+
+- [Homepage](https://josys.com)
+- [Platform Overview](https://www.josys.com/platform)
+- [Identity Security & Risk Governance](https://www.josys.com/identity-security-and-risk)
+- [Identity & Application Visibility](https://www.josys.com/identity-and-application-visibility)
+- [Access Automation](https://www.josys.com/features/access-automation)
+- [MSP Solution](https://josys.com/msp)
+- [Resource Center (Case Studies, Blogs, Demos)](https://www.josys.com/resources-center)
+- [Blog](https://www.josys.com/blog)
+- [News & Press](https://www.josys.com/news)
+- [Gartner Magic Quadrant Recognition](https://www.josys.com/news/josys-recognized-in-the-2025-gartner-magic-quadrant-for-saas-management-platforms)
