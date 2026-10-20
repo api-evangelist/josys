@@ -35,6 +35,23 @@ edges:
   detected: '2026-10-18'
   detected_by: mirror-platform-listings.py
   category: Zoom app
+- partner_name: JAMF (own)
+  partner: jamf
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://marketplace.jamf.com/details/josys
+  mirror_of: jamf/integrations/jamf-integration-edges.yml
+  apps:
+  - Josys
+  listing_count: 1
+  detected: '2026-10-20'
+  detected_by: mirror-platform-listings.py
+  category: Integration
 generated: '2026-10-18'
 method: searched
 source:
@@ -43,3 +60,4 @@ source:
 checked:
 - microsoft-teams/integrations/microsoft-teams-integration-edges.yml
 - zoom/integrations/zoom-integration-edges.yml
+- jamf/integrations/jamf-integration-edges.yml
