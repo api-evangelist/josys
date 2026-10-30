@@ -1,4 +1,4 @@
-# Josys (josys)
+# Josys
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,38 +66,102 @@
 
 Josys is a SaaS and IT asset management platform providing automated provisioning, license optimization, and device management. Josys publishes a developer API for programmatic access to the platform.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/josys/refs/heads/main/apis.yml)
+**Areas:** IT Asset Management · SaaS Management · Identity · Device Management
 
-## Tags
-- IT Asset Management
-- SaaS Management
-- Identity
-- Device Management
+## Josys on APIs.io
 
-## Timestamps
-- **Created:** 2026-03-27
-- **Modified:** 2026-04-28
+Everything profiled for Josys is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/josys/](https://apis.io/providers/josys/)** — or go straight to one of the APIs or properties below.
 
-## APIs
+### APIs (1)
 
-### Josys API
-The Josys API provides programmatic access to the Josys SaaS and IT asset management platform, including endpoints for users, applications, devices, licenses, and provisioning workflows.
+- [Josys API](https://apis.io/apis/josys/josys-api/) — The Josys API provides programmatic access to the Josys SaaS and IT asset management platform, including endpoints for users, applications, devices,…
 
-**Human URL:** [https://developer.josys.com/](https://developer.josys.com/)
+### Published properties
 
-#### Tags
-- SaaS Management
-- IT Asset Management
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Properties
-- [Documentation](https://developer.josys.com/)
-- [StatusPage](https://status.josys.com/)
+#### Security (1)
 
-## Common Properties
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Josys Domain Security](https://apis.io/security/josys/josys-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Josys Plans Pricing](https://apis.io/plans/josys/josys-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Josys Rate Limits](https://apis.io/rate-limits/josys/josys-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Josys Finops](https://apis.io/finops/josys/josys-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://www.josys.com)
-- [Developer](https://developer.josys.com/)
-- [StatusPage](https://status.josys.com/)
+- [Blog](https://www.josys.com/blog)
+- [GitHub](https://github.com/JoSys)
+- [Status](https://status.josys.com/)
 
-## Maintainers
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+## API Evangelist rating
+
+**Kin Score 11.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/josys/](https://apis.io/providers/josys/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Josys: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/josys/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
